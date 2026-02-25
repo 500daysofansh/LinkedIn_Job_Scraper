@@ -46,7 +46,6 @@ Bash
 python scraper.py
 You will be greeted by the interactive setup menu:
 
-Plaintext
 ============================================================
    🚀 LINKEDIN GUEST SCRAPER: EASY-APPLY EDITION 🚀
 ============================================================
